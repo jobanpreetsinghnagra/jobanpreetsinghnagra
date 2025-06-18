@@ -39,12 +39,5 @@ Pre-Final  UG<br>I like to work on problem which actually contribute to society<
 ---
 [![](https://visitcount.itsvg.in/api?id=jobanpreetsinghnagra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jobanpreetsinghnagra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
