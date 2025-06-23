@@ -5,7 +5,7 @@
 <h2 align="center">Just another guy , breaking and learning new things everyday</h2>
 
 ###
-Pre-Final  UG<br>Currently Learning OpenCV and PyTorch <br>I like to build and deploy interactive ML web apps <br> Contact me at [LinkedIn](https://www.linkedin.com/in/jobanpreet-singh-nagra/) | [Email](mailto:jobanpreetsinghnagra@gmail.com)
+Pre-Final  UG<br>Currently Learning OpenCV and PyTorch <br>I like to build and deploy interactive ML web apps <br> Contact me at [LinkedIn](https://www.linkedin.com/in/jobanpreet-singh-nagra/) | [jobanpreetsinghnagra05@gmail.com](mailto:jobanpreetsinghnagra05@gmail.com)
 
 
 
