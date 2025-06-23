@@ -25,7 +25,7 @@
 
 ###
 # 💫 About Me:
-Pre-Final  UG<br>I like to work on problem which actually contribute to society<br>Currently Learning RNNs and CNNs
+Pre-Final  UG<br>Currently Learning OpenCV and PyTorch <br>I like to build and deploy interactive ML web apps <br> Contact me at [LinkedIn](https://www.linkedin.com/in/jobanpreet-singh-nagra/) | [Email](mailto:jobanpreetsinghnagra@gmail.com)
 
 
 
