@@ -4,16 +4,6 @@
   <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3plMXlmanJ2NzRmdDhkNGk1enhsdGFqOGRzYjV6cHRxeG5ibTZzdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sthmCnCpfr8M8jtTQy/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://x.com/j0bannagra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jobanpreetsinghnagra.jobanpreetsinghnagra&"  />
