@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jobanpreetsinghnagra.jobanpreetsinghnagra&"  />
-</div>
-
 ###
 
 <h2 align="center">Just another guy , breaking and learning new things everyday</h2>
@@ -18,6 +14,11 @@ Pre-Final  UG<br>Currently Learning OpenCV and PyTorch <br>I like to build and d
 
 ![](https://nirzak-streak-stats.vercel.app/?user=jobanpreetsinghnagra&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jobanpreetsinghnagra&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jobanpreetsinghnagra.jobanpreetsinghnagra&"  />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jobanpreetsinghnagra&icon=0&color=0)](https://visitcount.itsvg.in)
