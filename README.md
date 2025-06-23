@@ -1,17 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3plMXlmanJ2NzRmdDhkNGk1enhsdGFqOGRzYjV6cHRxeG5ibTZzdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sthmCnCpfr8M8jtTQy/giphy.gif"  />
-</div>
-
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jobanpreetsinghnagra.jobanpreetsinghnagra&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋 , Joban this side</h1>
+<h2 align="center">Just another guy , breaking and learning new things everyday</h2>
 
 ###
 Pre-Final  UG<br>Currently Learning OpenCV and PyTorch <br>I like to build and deploy interactive ML web apps <br> Contact me at [LinkedIn](https://www.linkedin.com/in/jobanpreet-singh-nagra/) | [Email](mailto:jobanpreetsinghnagra@gmail.com)
