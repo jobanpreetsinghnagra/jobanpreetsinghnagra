@@ -14,7 +14,6 @@
 <h1 align="center">hey there 👋 , Joban this side</h1>
 
 ###
-# 💫 About Me:
 Pre-Final  UG<br>Currently Learning OpenCV and PyTorch <br>I like to build and deploy interactive ML web apps <br> Contact me at [LinkedIn](https://www.linkedin.com/in/jobanpreet-singh-nagra/) | [Email](mailto:jobanpreetsinghnagra@gmail.com)
 
 
